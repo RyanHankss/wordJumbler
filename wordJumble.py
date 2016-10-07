@@ -4,7 +4,7 @@ import random
 
 # Lists of cars
 
-cars = ["BUGATTI", "LAMBORGHINI", "FERRARI", "PAGANI", "ASTON MARTIN", "MCLAREN", "ROLLS ROYCE", "JAGUAR", "BENTLEY","BMW", "ALFA ROMEO", "MASERATI", "PORSCHE", "AUDI", "RANGE ROVER"]
+cars = ["BUGATTI", "LAMBORGHINI", "FERRARI", "PAGANI", "ASTON MARTIN", "MCLAREN", "ROLLS ROYCE", "JAGUAR", "BENTLEY", "BMW", "ALFA ROMEO", "MASERATI", "PORSCHE", "AUDI", "RANGE ROVER"]
 
 # selecting a random choice from the cars list
 
